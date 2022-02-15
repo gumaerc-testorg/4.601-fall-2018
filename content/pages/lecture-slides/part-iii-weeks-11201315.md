@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lists of Works
+parent_type: CourseSection
 parent_uid: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
 title: "Part III (Weeks 11\u201315)"
 uid: 6fe62931-4d14-f0ad-4914-21b1570026a2
@@ -132,8 +135,8 @@ Week 14
 -------
 
 1.  Fang Mask, Gabon, 19th C and the mask hanging in André Derain’s studio
-2.  Kota Reliquary Figure, Democratic Republic of the Congo, 19th century
-3.  Iberian head, c. 5th–3rd century BCE and mask, Etumbi region, Democratic Republic of Congo, 19th century
+2.  Kota Reliquary Figure, Democratic Republic of the Congo, 19{{< sup "th" >}} century
+3.  Iberian head, c. 5th–3rd century BCE and mask, Etumbi region, Democratic Republic of Congo, 19{{< sup "th" >}} century
 4.  Pablo Picasso (1881–1973), _**Les Demoiselles d’Avignon**_, 1907
 5.  Jean-Dominique Ingres (1780–1867), _Venus Anadyomene_, 1848
 6.  Picasso, _Mother and Child_, 1907

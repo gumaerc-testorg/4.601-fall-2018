@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lists of Works
+parent_type: CourseSection
 parent_uid: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
 title: "Part II (Weeks 6\u201310)"
 uid: 5eb1592b-4a9b-d60b-2d9e-a2544ff21b45
@@ -17,7 +20,7 @@ Week 6
 4.  Michelangelo Buonarroti (1475–1564), _Last Judgment_, Altar Wall of the Sistine Chapel, Vatican City, Rome, 1534–41
 5.  Marcello Venusti (1512/15–1579), _Last Judgment_, after Michelangelo, 1549
 6.  Pellegrino Tibaldi (1527–1596), **_Adoration of the Shepherds_**, 1549
-7.  Caravaggio (Michelangelo Merisi) (1571–1610), Contarelli Chapel, S. Luigi dei Francesi, Rome, c. 1597–1601: _**St. Matthew and the Angel**_, 2nd version, _**Calling of St. Matthew**_, _St. Matthew and the Angel_, 1st version
+7.  Caravaggio (Michelangelo Merisi) (1571–1610), Contarelli Chapel, S. Luigi dei Francesi, Rome, c. 1597–1601: _**St. Matthew and the Angel**_, 2{{< sup "nd" >}} version, _**Calling of St. Matthew**_, _St. Matthew and the Angel_, 1{{< sup "st" >}} version
 8.  Gianlorenzo Bernini (1598–1680), Cornaro Chapel, Santa Maria della Vittoria, Rome, 1645–52: _**Ecstasy of St. Teresa**_
 9.  Andrea del Pozzo (1642–1709), _Allegory of the Missionary Work of the Jesuits_, San Ignazio, Rome, 1694 (also called _Glorification of St. Ignatius of Loyola_), 1691–1694
 10.  Giovanni Battista Gaulli (1591–1666), _**Triumph of the Name of Jesus**_, Il Gesù, Rome, 1676–1679
@@ -33,7 +36,7 @@ Week 7
 
 1.  Gianlorenzo Bernini (1598–1680), _Pluto and Proserpina (Persephone)_, 1621–22
 2.  Claes Jansz Visscher (1587–1652), _Leo Hollandicus_, 1648
-3.  Map of 17th\-century Dutch trade routes
+3.  Map of 17{{< sup "th" >}}\-century Dutch trade routes
 4.  Visscher “Huis ter Kleef,” from _Pleasant Places_, etching, 1611
 5.  Jacob van Ruisdael (c.1628–1682), **_View of Haarlem from the Dunes at Overveen_**, c. 1670
 6.  Dutch view of New Amsterdam (now New York City), 1664; Dutch trading post in Bandar Abbas, Persia (now Iran), 1704; Dutch elevation drawing of Nagasaki coastline, Japan, 1661

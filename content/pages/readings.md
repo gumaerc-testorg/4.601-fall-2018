@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4977a93f-d7e5-a7fb-8882-b727dd1a03a9
 ---
@@ -176,7 +179,7 @@ Giorgio Vasari, “Introduction” (optional) and “Preface” (1550) to _Vasar
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Art as Theater in 17th\-Century Rome
+Art as Theater in 17{{< sup "th" >}}\-Century Rome
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -199,7 +202,7 @@ Dutch Art in Global Perspective
 
  Julie Hochstrasser, “Remapping Dutch Art in Global Perspective: Other Points of View,” in _Cultural Contact and the Making of European Art since the Age of Exploration_, ed. Mary D. Sheriff (Chapel Hill: University of North Carolina Press, 2010), 43–71. ISBN: 9780807872703.
 
-Thijs Weststeijn, “Cultural Reflections on Porcelain in the 17th\-Century Netherlands,” in _Chinese and Japanese Porcelain for the Dutch Golden Age_, ed. J. van Campen and Titus Eliens (Amsterdam: Uitgeverij De Kunst, 2014), 213–229. ISBN: 9789491196805.
+Thijs Weststeijn, “Cultural Reflections on Porcelain in the 17{{< sup "th" >}}\-Century Netherlands,” in _Chinese and Japanese Porcelain for the Dutch Golden Age_, ed. J. van Campen and Titus Eliens (Amsterdam: Uitgeverij De Kunst, 2014), 213–229. ISBN: 9789491196805.
 
 
 {{< tdclose >}}

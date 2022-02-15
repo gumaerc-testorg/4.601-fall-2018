@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lists of Works
+parent_type: CourseSection
 parent_uid: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
 title: "Part I (Weeks 2\u20135)"
 uid: c4d33340-398a-277c-2813-89a47e512a04
@@ -36,7 +39,7 @@ Week 3
 6.  Leonardo da Vinci (1452–1519), _Vitruvian Man_, 1492
 7.  Brancacci Chapel, Santa Maria del Carmine, Florence
 8.  Masaccio, **_Adam and Eve Expelled from Paradise_**, Brancacci Chapel, c. 1425
-9.  Michelangelo Buonarroti (1475-1564), _Adam and Eve Expelled from Paradise_, after Masaccio, drawing, early 16th C
+9.  Michelangelo Buonarroti (1475-1564), _Adam and Eve Expelled from Paradise_, after Masaccio, drawing, early 16{{< sup "th" >}} C
 10.  Nanni di Banco (c. 1380–1421), **Four Crowned Saints**, c. 1416
 11.  Portrait Bust of Caracalla, Emperor of Rome, 188–217 CE
 12.  Map of the Duchy of Burgundy, c. 1477
@@ -71,7 +74,7 @@ Week 4
 15.  Martin Schongauer, Elephant, engraving, c. 1485
 16.  Dürer, _Rhinoceros_, woodcut, 1515
 17.  Marco Dente (d. 1527), _Laocoon_, engraving, 1506
-18.  German, 16th century, _The People of the Islands Recently Discovered_ c. 1505, woodcut
+18.  German, 16{{< sup "th" >}} century, _The People of the Islands Recently Discovered_ c. 1505, woodcut
 19.  _Columbus’s First Voyage to the New World_ (1492), woodcut, 1493
 20.  Hans Memling (c. 1430–1494), _Tommaso Portinari_, c. 1470 and _Maria Portinari_, c. 1470
 21.  Domenico Ghirlandaio (1449–1494), _An Old Man and his Grandson_ + preparatory drawing, c. 1480
@@ -79,7 +82,7 @@ Week 4
 23.  Domenico Ghirlandaio, _Nativity and Adoration of the Shepherds_, 1485
 24.  Gentile da Fabriano (c. 1370–1427), **_Adoration of the Magi_**, 1423
 25.  Brass dish, incised and inlaid with silver and gold, Egypt, c. 1341–63
-26.  Brass basin, incised and inlaid with silver, Egypt or Syria, late 13th–early 14th century
+26.  Brass basin, incised and inlaid with silver, Egypt or Syria, late 13{{< sup "th" >}}–early 14{{< sup "th" >}} century
 27.  Masaccio (1401-1428), **Virgin and Child**, 1426
 28.  Workshop of Giovanni Bellini (c. 1430–1516), _The Circumcision_, c. 1500
 29.  Gentile Bellini (1429–1507), **_Portrait of Mehmed II_**, 1480
@@ -96,7 +99,7 @@ Week 4
 40.  Michelangelo Buonarroti (1475–1564), **_David_**, 1501–4
 41.  Donatello (c. 1386–1466), _David_ (marble), c. 1409
 42.  Donatello, **_David_** (bronze), c. 1450
-43.  Dioskourides, _Apollo, Olympos and Marsyas_, engraved gem, 1st century CE
+43.  Dioskourides, _Apollo, Olympos and Marsyas_, engraved gem, 1{{< sup "st" >}} century CE
 44.  Donatello, _**Judith and Holofernes**_, c. 1457-1460
 45.  Leonardo da Vinci (1452–1519), _Star-of-Bethlehem_, drawing, c. 1506–8
 46.  Leonardo da Vinci, _Cats and a Dragon_, drawing, c. 1513–1515
@@ -115,7 +118,7 @@ Week 5
 2.  Views of the Sistine Chapel + ceiling (1508–1512), Vatican City, Rome
 3.  Michelangelo, caricature of himself at work on the Sistine Ceiling
 4.  Michelangelo, ceiling of the Sistine Chapel, Vatican City, Rome, 1508–12: Creation of the Sun and Moon, **Creation of Adam**, **Temptation and Expulsion from the Garden of Eden**, **Libyan Sibyl** + preparatory drawing
-5.  _Laocoon_, 40–20 BCE (possibly early 1st century CE)
+5.  _Laocoon_, 40–20 BCE (possibly early 1{{< sup "st" >}} century CE)
 6.  Raphael (1483–1520), _Madonna in the Meadow_, 1505–6
 7.  Hans Memling (c. 1430–1494), _Portrait of a Man with a Coin of Emperor Nero (Bernardo Bembo)_, c. 1473–4
 8.  Raphael, Stanza della Segnatura, Vatican Palace, Rome, 1509–11: general view, **_School of Athens_**

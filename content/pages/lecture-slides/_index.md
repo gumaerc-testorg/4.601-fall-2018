@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lists of Works
 uid: d86eb082-c9ee-fb5a-52cb-7fafcd509bbc
 ---
