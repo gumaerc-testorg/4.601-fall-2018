@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +45,7 @@ Additional recommended supplementary sources are:
 *   The Metropolitan Museum’s [Heilbrunn Timeline of Art History](https://www.metmuseum.org/toah/)
 *   [Oxford Art Online](http://www.oxfordartonline.com) 
 
-[Readings]({{< baseurl >}}/pages/readings) are assigned for each lecture. All assigned readings are mandatory and will be discussed and debated in class and in recitation meetings. It is your responsibility to complete your assigned readings before your recitation section and to be prepared to discuss the critical perspectives they present.
+{{% resource_link 4977a93f-d7e5-a7fb-8882-b727dd1a03a9 "Readings" %}} are assigned for each lecture. All assigned readings are mandatory and will be discussed and debated in class and in recitation meetings. It is your responsibility to complete your assigned readings before your recitation section and to be prepared to discuss the critical perspectives they present.
 
 Course Requirements and Grading Policy
 --------------------------------------
