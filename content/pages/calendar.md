@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The lecture topics, recitation topics, and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7976b3e0-f9f4-e5f8-d074-33b62af983df
 ---

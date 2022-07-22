@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
 ---
@@ -34,7 +38,7 @@ Tuesday of Week 4
 {{< tdopen >}}
 
 
-[Second Paper: Authenticity](/courses/architecture/4-601-introduction-to-art-history-fall-2018/assignments/4.601-second-paper)
+{{% resource_link ed9c1f13-939c-166b-f3c9-fa3fdffd9575 "Second Paper: Authenticity" %}}
 
 In 1969, a committee of art historians called the Rembrandt Research Project (RRP) was convened to examine the more than 600 paintings then attributed to Rembrandt and to determine which were painted by the artist and which were not.
 
@@ -51,7 +55,7 @@ Tuesday of Week 10
 {{< tdopen >}}
 
 
-[Final Paper: Photography/Impressionism](/courses/architecture/4-601-introduction-to-art-history-fall-2018/assignments/4.601-third-paper)
+{{% resource_link d8ef1908-7f82-d764-5a0b-b46cedbda6da "Final Paper: Photography/Impressionism" %}}
 
 In this assignment, students address one of the following two topics:
 
