@@ -51,7 +51,7 @@ Joseph Koerner, “Albrecht Dürer: A Sixteenth-Century Influenza,” in Giulia 
 Worlding the Italian Renaissance
 {{< tdclose >}}{{< tdopen >}}
 
-Jill Burke, “{{% resource_link "d4e460f9-692c-47b8-86c5-cfbabeed20e0" "Nakedness and Other Peoples: Rethinking the Renaissance Nude" %}}.” _Art History_ 36, no. 4 (2013): 714–739.
+Jill Burke, “[Nakedness and Other Peoples: Rethinking the Renaissance Nude](https://doi.org/10.1111/1467-8365.12029).” _Art History_ 36, no. 4 (2013): 714–739.
 
 Paul Wood, “Renaissance and Old World,” in _Western Art and the Wider World_ (Oxford: Wiley-Blackwell, 2014), 12–51. ISBN: 9781444333923.
 
@@ -73,7 +73,7 @@ Representing Women
 
 Suzanna Danuta Walters, “Visual Pressures. On Gender and Looking” in _Material Girls: Making Sense of Feminist Cultural Theory_ (Berkeley: University of California Press, 1995), 50–66. ISBN: 9780520089785.
 
-Rose Marie San Juan, “{{% resource_link "f40ea7fb-e7b2-4804-b203-fb284faf6b88" "The Court Lady's Dilemma: Isabella d'Este and Art Collecting in the Renaissance" %}}.” _Oxford Art Journal_, 14/1 (1991), 67–78.
+Rose Marie San Juan, “[The Court Lady's Dilemma: Isabella d'Este and Art Collecting in the Renaissance](https://doi.org/10.1093/oxartj/14.1.67).” _Oxford Art Journal_, 14/1 (1991), 67–78.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5b
@@ -90,7 +90,7 @@ Giorgio Vasari, “Introduction” (optional) and “Preface” (1550) to _Vasar
 {{< tdclose >}}{{< tdopen >}}
 Art as Theater in 17{{< sup "th" >}}\-Century Rome
 {{< tdclose >}}{{< tdopen >}}
-Genevieve Warwick, “{{% resource_link "a4dd9bb4-05bc-493c-8b84-373b9a85c4af" "Speaking Statues: Bernini’s Apollo and Daphne at the Villa Borghese" %}}”. _Art History_ 27 (2004): 353–381.
+Genevieve Warwick, “[Speaking Statues: Bernini’s Apollo and Daphne at the Villa Borghese](https://doi.org/10.1111/j.0141-6790.2004.00428.x)”. _Art History_ 27 (2004): 353–381.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -135,9 +135,9 @@ Andrew McClellan, “Nationalism and the Origins of the Museum in France,” in 
 Beyond Representation: Color and Touch
 {{< tdclose >}}{{< tdopen >}}
 
-Angela Dunstan, “{{% resource_link "09f2e2a1-8f60-4feb-845e-b8a848fa1417" "Nineteenth-Century Sculpture and the Imprint of Authenticity" %}}.” _Interdisciplinary Studies in the Long Nineteenth Century 19_ (2014).
+Angela Dunstan, “[Nineteenth-Century Sculpture and the Imprint of Authenticity](http://doi.org/10.16995/ntn.704).” _Interdisciplinary Studies in the Long Nineteenth Century 19_ (2014).
 
-Peter John Brownlee, “{{% resource_link "1cd9fccf-eb72-4ca3-80e2-50f0c454892d" "Color Theory and the Perception of Art" %}}.” _American Art_ 23, no. 2 (Summer 2009): 21–24.
+Peter John Brownlee, “[Color Theory and the Perception of Art](https://doi.org/10.1086/605706).” _American Art_ 23, no. 2 (Summer 2009): 21–24.
 
 Judith Walsh, “Winslow Homer and the Color Theories of Michel-Eugène Chevreul,” in _Watercolors by Winslow Homer: The Color of Light_, ed. Martha Tedeschi and Kristi Dahm (New Haven: Yale University Press, 2008), 198–205. ISBN: 9780865592261.
 
@@ -185,7 +185,7 @@ Griselda Pollock, “Modernity and the Spaces of Femininity,” in _Vision and D
 Modernist Primitivism
 {{< tdclose >}}{{< tdopen >}}
 
-Simon Gikandi, “{{% resource_link "b5ca187f-0c72-4ffe-a9fe-630d4b48d95a" "Picasso, Africa, and the Schemata of Difference" %}}.” _Modernism/Modernity_ 10 (2003): 455–80.
+Simon Gikandi, “[Picasso, Africa, and the Schemata of Difference](https://www.researchgate.net/publication/236818699_Picasso_Africa_and_the_Schemata_of_Difference).” _Modernism/Modernity_ 10 (2003): 455–80.
 
 Mark Antliff and Patricia Leighten, “Primitive,” in _Critical Terms for Art History_, ed. R. S. Nelson and R. Shiff, 2nd edition, (Chicago: University of Chicago Press, 2003), 217–233. ISBN: 9780226571683.
 
@@ -224,5 +224,5 @@ Thomas Crow, “Saturday Disasters: Trace and Reference in Early Warhol,” in _
 {{< tdclose >}}{{< tdopen >}}
 Where We Are Now; Concluding Thoughts
 {{< tdclose >}}{{< tdopen >}}
-Kate Cowcher, “{{% resource_link "523af267-819c-433c-828f-0cec224abe3b" "Luanda Onde Está? Contemporary African Art and the Rentier State" %}}.” _Critical Interventions_ 8, no. 2 (2014): 140–159.
+Kate Cowcher, “[Luanda Onde Está? Contemporary African Art and the Rentier State](https://doi.org/10.1080/19301944.2014.939524).” _Critical Interventions_ 8, no. 2 (2014): 140–159.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

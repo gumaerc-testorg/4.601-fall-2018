@@ -98,7 +98,7 @@ Renaissance Worlds
 4b. Leonardo, Michelangelo, Raphael: Making Renaissance Art
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip: "Adam and Eve" exhibition at the {{% resource_link "b220195c-24ce-4d34-b396-a24c819ad18b" "Harvard Art Museums" %}}
+Field trip: "Adam and Eve" exhibition at the [Harvard Art Museums](https://www.harvardartmuseums.org/)
 {{< tdclose >}}
 {{< tdopen >}}
 Tuesday: first paper due
@@ -172,7 +172,7 @@ Art and Power
 8b. Public Exhibitions: Enter the Art Critic
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip: {{% resource_link "188cd925-8180-468b-9642-98140acc36e6" "Museum of Fine Arts" %}}, Boston
+Field trip: [Museum of Fine Arts](https://www.mfa.org/), Boston
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -228,7 +228,7 @@ The Second Media Revolution
 11b. The Artist and the City
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip: visit to the {{% resource_link "3e131ee4-d081-4126-9a79-3a1a76b14b48" "MIT Museum" %}} to view daguerrotypes and stereoscopes
+Field trip: visit to the [MIT Museum](https://mitmuseum.mit.edu/) to view daguerrotypes and stereoscopes
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -284,7 +284,7 @@ Art and After
 14b. After the Art Object: From Pop to Performance
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip: visit and discussion of exhibition, "{{% resource_link "7fefde7b-7586-4963-b974-4de24c51fe4e" "Joan Jonas, Sources and Methods" %}}," MIT, ACT
+Field trip: visit and discussion of exhibition, "[Joan Jonas, Sources and Methods](https://calendar.mit.edu/event/joan_jonas_sources_and_methods#.XPUjuMhKiUk)," MIT, ACT
 {{< tdclose >}}
 {{< tdopen >}}
 Tuesday: final paper due
