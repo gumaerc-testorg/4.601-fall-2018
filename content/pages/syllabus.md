@@ -42,8 +42,8 @@ There is no textbook for this course. If you think one would be helpful to you (
 
 Additional recommended supplementary sources are:
 
-*   The Metropolitan Museum’s {{% resource_link "d4f6669f-6ccc-42a6-8156-51bdeae5e9e5" "Heilbrunn Timeline of Art History" %}}
-*   {{% resource_link "a2e2b42f-e134-418b-aedf-cb90dee92505" "Oxford Art Online" %}} 
+*   The Metropolitan Museum’s [Heilbrunn Timeline of Art History](https://www.metmuseum.org/toah/)
+*   [Oxford Art Online](http://www.oxfordartonline.com) 
 
 {{% resource_link 4977a93f-d7e5-a7fb-8882-b727dd1a03a9 "Readings" %}} are assigned for each lecture. All assigned readings are mandatory and will be discussed and debated in class and in recitation meetings. It is your responsibility to complete your assigned readings before your recitation section and to be prepared to discuss the critical perspectives they present.
 
@@ -69,7 +69,7 @@ Policy on Academic Honesty
 
 Please read the following carefully and be advised that the policy is real.
 
-Plagiarism—the use of another’s intellectual work without acknowledgement—is a serious offense. Students who plagiarize or hand in work completed by another will receive an automatic grade of “F” for the course. You will also be referred to the appropriate Institute committees. If you have any questions about plagiarism or how to cite your sources properly, please consult the section “{{% resource_link "a0273bd5-c1e2-41c6-822f-a702623b773d" "Avoiding Plagiarism" %}}” on the writing and communication center website or your instructor and TAs. We are here to help you.
+Plagiarism—the use of another’s intellectual work without acknowledgement—is a serious offense. Students who plagiarize or hand in work completed by another will receive an automatic grade of “F” for the course. You will also be referred to the appropriate Institute committees. If you have any questions about plagiarism or how to cite your sources properly, please consult the section “[Avoiding Plagiarism](http://writing.mit.edu/wcc/avoidingplagiarism)” on the writing and communication center website or your instructor and TAs. We are here to help you.
 
 Policy on Devices
 -----------------
