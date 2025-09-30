@@ -42,8 +42,8 @@ There is no textbook for this course. If you think one would be helpful to you (
 
 Additional recommended supplementary sources are:
 
-*   The Metropolitan Museum’s [Heilbrunn Timeline of Art History](https://www.metmuseum.org/toah/)
-*   [Oxford Art Online](http://www.oxfordartonline.com) 
+*   The Metropolitan Museum’s {{% resource_link "b46e5b1d-5bab-4df1-8f1f-207066961221" "Heilbrunn Timeline of Art History" %}}
+*   {{% resource_link "482a8a1f-e37e-4073-9fb1-c69afc8ed8f4" "Oxford Art Online" %}} 
 
 {{% resource_link 4977a93f-d7e5-a7fb-8882-b727dd1a03a9 "Readings" %}} are assigned for each lecture. All assigned readings are mandatory and will be discussed and debated in class and in recitation meetings. It is your responsibility to complete your assigned readings before your recitation section and to be prepared to discuss the critical perspectives they present.
 
@@ -69,7 +69,7 @@ Policy on Academic Honesty
 
 Please read the following carefully and be advised that the policy is real.
 
-Plagiarism—the use of another’s intellectual work without acknowledgement—is a serious offense. Students who plagiarize or hand in work completed by another will receive an automatic grade of “F” for the course. You will also be referred to the appropriate Institute committees. If you have any questions about plagiarism or how to cite your sources properly, please consult the section “[Avoiding Plagiarism](http://writing.mit.edu/wcc/avoidingplagiarism)” on the writing and communication center website or your instructor and TAs. We are here to help you.
+Plagiarism—the use of another’s intellectual work without acknowledgement—is a serious offense. Students who plagiarize or hand in work completed by another will receive an automatic grade of “F” for the course. You will also be referred to the appropriate Institute committees. If you have any questions about plagiarism or how to cite your sources properly, please consult the section “{{% resource_link "95147450-2d78-48cd-8100-4ae06c44a1c6" "Avoiding Plagiarism" %}}” on the writing and communication center website or your instructor and TAs. We are here to help you.
 
 Policy on Devices
 -----------------
